@@ -1,1 +1,1 @@
-# MyBatisGenerator1
+# MyBatis反向生成工程
